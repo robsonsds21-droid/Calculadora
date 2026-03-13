@@ -1,0 +1,5 @@
+{
+  "name": "Kivy Style Calculator",
+  "description": "A calculator built with React that mimics the look and feel of a Kivy-based Python application.",
+  "requestFramePermissions": []
+}
